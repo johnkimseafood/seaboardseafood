@@ -1,0 +1,62 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-fdf0c9b8c045061465b8.js",
+      "component---src-pages-index-js-fdf0c9b8c045061465b8.js.map"
+    ],
+    "path---products": [
+      "path---products-a0e39f21c11f6a62c5ab.js",
+      "path---products-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---info": [
+      "path---info-a0e39f21c11f6a62c5ab.js",
+      "path---info-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-07f6f39af0bc41710648.js",
+      "component---src-pages-contact-js-07f6f39af0bc41710648.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-619e74a3518cdb01b75a.js",
+      "component---src-layouts-index-js-619e74a3518cdb01b75a.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---aboutus": [
+      "path---aboutus-a0e39f21c11f6a62c5ab.js",
+      "path---aboutus-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-552ce033d117d2e5f09d.js",
+      "commons-552ce033d117d2e5f09d.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-aboutus-js": [
+      "component---src-pages-aboutus-js-6e5d68e1dfa089831d9b.js",
+      "component---src-pages-aboutus-js-6e5d68e1dfa089831d9b.js.map"
+    ],
+    "component---src-pages-info-js": [
+      "component---src-pages-info-js-cf831bc1d6c6584dfe9f.js",
+      "component---src-pages-info-js-cf831bc1d6c6584dfe9f.js.map"
+    ],
+    "app": [
+      "app-3607f82ed67be069e2fd.js",
+      "build-js-styles.css",
+      "app-3607f82ed67be069e2fd.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-products-js": [
+      "component---src-pages-products-js-69b3e738021008ba1e16.js",
+      "component---src-pages-products-js-69b3e738021008ba1e16.js.map"
+    ]
+  }
+}
