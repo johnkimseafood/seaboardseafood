@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-fdf0c9b8c045061465b8.js",
-      "component---src-pages-index-js-fdf0c9b8c045061465b8.js.map"
+      "component---src-pages-index-js-2531f40561a6c4c4c174.js",
+      "component---src-pages-index-js-2531f40561a6c4c4c174.js.map"
     ],
     "path---products": [
       "path---products-a0e39f21c11f6a62c5ab.js",
@@ -55,8 +55,8 @@
       "build-js-styles.css.map"
     ],
     "component---src-pages-products-js": [
-      "component---src-pages-products-js-42258521b9733b9b86b6.js",
-      "component---src-pages-products-js-42258521b9733b9b86b6.js.map"
+      "component---src-pages-products-js-0307aab3486c11745439.js",
+      "component---src-pages-products-js-0307aab3486c11745439.js.map"
     ]
   }
 }
